@@ -1,5 +1,5 @@
-## Heyoo everyone, welcome to my git guide!
+## Hello, Git!
 
-Yo, Johny here !
 I'm adding this from 
 'freature-branch'
+
